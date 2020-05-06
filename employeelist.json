@@ -1,0 +1,74 @@
+[
+
+    {
+        "name": "Austin Adokpah",
+        "position": "Director (HR)",
+        "employeeID": "ESL001",
+        "email": "austinadokpah@esl.com",
+        "image": "https://images.unsplash.com/photo-1511546395756-590dffdcdbd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "name": "Anasthesia Jackson",
+        "position": "Sales Manager",
+        "employeeID":"ESL002",
+        "email": "anasthesia@esl.com",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "name": "James A Mc",
+        "position": "IT manager",
+        "employeeID": "ESL003",
+        "email": "james_a@esl.com",
+        "image": "https://images.unsplash.com/photo-1553798194-cc0213ae7f99?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+    },
+    {
+        "name": "Bernada Gyamfi",
+        "position": "Commercial manager",
+        "employeeID":"ESL004",
+        "email": "bernada_g@esl.com",
+        "image": "https://images.unsplash.com/photo-1569932189442-a4d418eb16ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
+    },
+    {
+        "name": "Clara Adokpah",
+        "position": "Software Engineer",
+        "employeeID":"ESL005",
+        "email": "clara_a@esl.com",
+        "image": "https://images.unsplash.com/photo-1514626585111-9aa86183ac98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+        "name": "Gabriel Klopp",
+        "position": "Web developer",
+        "employeeID":"ESL006",
+        "email": "gabrielklopp@esl.com",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+        "name": "Mac Mawuli Willson",
+        "position": "Head of Security",
+        "employeeID":"ESL007",
+        "email": "mawuliwillson@esl.com",
+        "image": "https://images.unsplash.com/photo-1542190891-2093d38760f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+        "name": "Paul Henry Afric",
+        "position": "Chief Driver",
+        "employeeID":"ESL008",
+        "email": "paulafric@esl.com",
+        "image": "https://images.unsplash.com/photo-1558466018-750096b8ead7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=648&q=80"
+    },
+    {
+        "name": "Kwadjo Adegah",
+        "position": "Secretary General",
+        "employeeID":"ESL009",
+        "email": "kwadjo_a@esl.com",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+        "name": "Cyril Kombla Adokpah",
+        "position": "Operation Manager ",
+        "employeeID":"ESL010",
+        "email": "cyril_dokpa@esl.com",
+        "image": "https://images.unsplash.com/photo-1506186015723-bfcbe9cb67a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }
+    
+]
